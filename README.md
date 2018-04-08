@@ -1,2 +1,2 @@
 # barprices
-The Bar Prices
+The Bar Prices, in yaml format.
