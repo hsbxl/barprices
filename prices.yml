@@ -1,0 +1,155 @@
+club_mate:
+    label: Club-Maté
+    price: 2
+    event_price: 3
+    barcode: 
+
+flora_power:
+    label: Flora Power 0.5L
+    price: 2
+    event_price: 3
+    barcode:
+
+water_sparkling:
+    label: Water sparkling 0.5L
+    price: 0.5
+    event_price: 1
+    barcode:
+
+coca_cola:
+    label: Coca-Cola
+    price: 1
+    event_price: 2
+    barcode:
+    
+coca_cola_zero:
+    label: Coca-Cola Zero
+    price: 1
+    event_price: 2
+    barcode:
+    
+sprite:
+    label: Sprite
+    price: 1
+    event_price: 2
+    barcode:
+    
+schweppes:
+    label: Schweppes
+    price: 1.5
+    event_price: 2
+    
+icetea:
+    label: Ice-Tea
+    price: 1
+    event_price: 2
+    barcode:
+    
+duvel:
+    label: Duvel
+    price: 2
+    event_price: 3
+    barcode:
+    
+westmalle:
+    label: Westmalle
+    price: 2
+    event_price: 3
+    barcode:
+    
+leffe_blond:
+    label: Leffe Blond
+    price: 2
+    event_price: 3
+    barcode: 
+    
+jupiler:
+    label: Jupiler
+    price: 1
+    event_price: 2
+    barcode:
+    
+cuveetrolls:
+    label: Cuvée des trolls
+    price: 1.5
+    event_price: 3
+    barcode:
+    
+geuze_boon:
+    label: Geuze Boon 37.5 cl
+    price: 4
+    event_price: 6
+    barcode:
+    
+wine_glass:
+    label: Wine glass
+    price: 2
+    event_price: 3
+    barcode:
+    
+lays_grills:
+    label: Chips Lays Grills
+    price: 1
+    event_price: 1.5
+    barcode:
+    
+bifi_roll:
+    label: Bifi roll
+    price: 2
+    event_price: 3
+    barcode:
+    
+lays_natural:
+    label: Chips Lays Natural
+    price: 1
+    event_price: 2
+    barcode:
+    
+lays_paprika:
+    label: Chips Lays Paprika
+    price: 1
+    event_price: 2
+    barcode:
+    
+peanuts:
+    label: Peanuts Everyday
+    price: 1
+    event_price: 2
+    barcode:
+    
+snickers:
+    label: Snickers
+    price: 1
+    event_price: 2
+    barcode:
+    
+twix:
+    label: Twix
+    price: 1
+    event_price: 2
+    barcode:
+
+waffle_sugar:
+    label: Waffle Sugar
+    price: 1
+    event_price: 2
+    barcode:
+    
+cotedor_bar:
+    label: Chocolate bar Côte D'Or
+    price: 1
+    event_price: 2
+    barcode:
+    
+pizza:
+    label: Pizza from freezer
+    price: 5
+    event_price: 7
+    barcode:
+    
+
+    
+
+    
+
+
