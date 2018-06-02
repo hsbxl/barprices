@@ -19,17 +19,12 @@ water_sparkling:
     barcodes:
 
 coca_cola:
-    label: Coca-Cola
+    label: Coca-Cola (zero)
     price: 1
     event_price: 2
     barcodes:
-    
-coca_cola_zero:
-    label: Coca-Cola Zero
-    price: 1
-    event_price: 2
-    barcode:
-    
+        - regularbarcode
+        - zerobarcode
 sprite:
     label: Sprite
     price: 1
