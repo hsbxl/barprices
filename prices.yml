@@ -2,25 +2,27 @@ club_mate:
     label: Club-Maté
     price: 2
     event_price: 3
-    barcode: 
+    barcodes: 
+        - example1
+        - example2
 
 flora_power:
     label: Flora Power 0.5L
     price: 2
     event_price: 3
-    barcode:
+    barcodes:
 
 water_sparkling:
     label: Water sparkling 0.5L
     price: 0.5
     event_price: 1
-    barcode:
+    barcodes:
 
 coca_cola:
     label: Coca-Cola
     price: 1
     event_price: 2
-    barcode:
+    barcodes:
     
 coca_cola_zero:
     label: Coca-Cola Zero
@@ -43,37 +45,37 @@ icetea:
     label: Ice-Tea
     price: 1
     event_price: 2
-    barcode:
+    barcodes:
     
 duvel:
     label: Duvel
     price: 2
     event_price: 3
-    barcode:
+    barcodes:
     
 westmalle:
     label: Westmalle
     price: 2
     event_price: 3
-    barcode:
+    barcodes:
     
 leffe_blond:
     label: Leffe Blond
     price: 2
     event_price: 3
-    barcode: 
+    barcodes: 
     
 jupiler:
     label: Jupiler
     price: 1
     event_price: 2
-    barcode:
+    barcodes:
     
 cuveetrolls:
     label: Cuvée des trolls
     price: 1.5
     event_price: 3
-    barcode:
+    barcodes:
     
 geuze_boon:
     label: Geuze Boon 37.5 cl
@@ -85,67 +87,67 @@ wine_glass:
     label: Wine glass
     price: 2
     event_price: 3
-    barcode:
+    barcodes:
     
 lays_grills:
     label: Chips Lays Grills
     price: 1
     event_price: 1.5
-    barcode:
+    barcodes:
     
 bifi_roll:
     label: Bifi roll
     price: 2
     event_price: 3
-    barcode:
+    barcodes:
     
 lays_natural:
     label: Chips Lays Natural
     price: 1
     event_price: 2
-    barcode:
+    barcodes:
     
 lays_paprika:
     label: Chips Lays Paprika
     price: 1
     event_price: 2
-    barcode:
+    barcodes:
     
 peanuts:
     label: Peanuts Everyday
     price: 1
     event_price: 2
-    barcode:
+    barcodes:
     
 snickers:
     label: Snickers
     price: 1
     event_price: 2
-    barcode:
+    barcodes:
     
 twix:
     label: Twix
     price: 1
     event_price: 2
-    barcode:
+    barcodes:
 
 waffle_sugar:
     label: Waffle Sugar
     price: 1
     event_price: 2
-    barcode:
+    barcodes:
     
 cotedor_bar:
     label: Chocolate bar Côte D'Or
     price: 1
     event_price: 2
-    barcode:
+    barcodes:
     
 pizza:
     label: Pizza from freezer
     price: 5
     event_price: 7
-    barcode:
+    barcodes:
     
 
     
