@@ -89,30 +89,18 @@ wine_glass:
     event_price: 3
     barcodes:
     
-lays_grills:
-    label: Chips Lays Grills
-    price: 1
-    event_price: 1.5
-    barcodes:
-    
 bifi_roll:
     label: Bifi roll
     price: 2
     event_price: 3
     barcodes:
-    
-lays_natural:
-    label: Chips Lays Natural
+chips:
+    label: Chips
     price: 1
     event_price: 2
     barcodes:
-    
-lays_paprika:
-    label: Chips Lays Paprika
-    price: 1
-    event_price: 2
-    barcodes:
-    
+        - papribarcode
+        - saltbarcode 
 peanuts:
     label: Peanuts Everyday
     price: 1
